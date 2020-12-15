@@ -7,7 +7,7 @@
 :grey_exclamation: The application is available  **only for Windows and macOS** and supports **only the Russian language**.
 
 ## How to use:
-Download [**<code>Cross-Football.exe</code>**](https://github.com/AleksandrMolchagin/atomic-cross-football/raw/main/Cross-Football.exe) file for Windows or [**<code>Cross-Football.app.zip</code>**](https://github.com/AleksandrMolchagin/atomic-cross-football/raw/main/Cross-Football.app.zip) for macOS, and launch the application.
+Download [**<code>Cross-Football.exe</code>**](https://github.com/AleksandrMolchagin/atomic-cross-football/raw/main/Cross-Football.exe) file for Windows or [**<code>Cross-Football(Mac).zip</code>**](https://github.com/AleksandrMolchagin/atomic-cross-football/raw/main/Cross-Football(Mac).zip) for macOS, and launch the application.
 
 If you want to see the game's code, use [**<code>code</code>**](https://github.com/AleksandrMolchagin/atomic-cross-football/blob/main/code) folder. To see the whole uncompiled project, you can open [**<code>Cross_Football.fla</code>**](https://github.com/AleksandrMolchagin/atomic-cross-football/raw/main/Cross_Football.fla) file using Adobe Animate CC.
 
