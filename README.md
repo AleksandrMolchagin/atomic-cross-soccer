@@ -2,7 +2,7 @@
 
  Atomic Cross-Football is an interactive application that was made to help students study atomic physics while playing. 
 
-:trophy: Was awarded with thes 2nd place in "Crosswords and puzzled" nomination in the international programming competition "My Atom - 2016". 
+:trophy: Was awarded with the 2nd place in "Crosswords and puzzled" nomination in the international programming competition "My Atom - 2016". 
 
 :grey_exclamation: The application is available  **only for Windows and macOS** and supports **only the Russian language**.
 
