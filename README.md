@@ -1,6 +1,6 @@
-# Atomic Cross-Football :soccer: 
+# Atomic Cross-Soccer :soccer: 
 
- Atomic Cross-Football is an interactive application that was made to help students study atomic physics while playing. 
+ Atomic Cross-Soccer is an interactive application that was made to help students study atomic physics while playing. 
 
 :trophy: Was awarded with the 2nd place in "Crosswords and puzzled" nomination in the international programming competition "My Atom - 2016". 
 
